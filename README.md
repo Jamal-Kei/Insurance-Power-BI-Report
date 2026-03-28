@@ -7,6 +7,7 @@ This project focuses on analysing car insurance policyholder data to uncover pat
 The goal was to transform raw insurance data into a centralised, interactive Power BI dashboard that enables stakeholders to monitor performance, identify risk factors, and support data-driven decision-making.
 
 🎯 Objectives
+
 Provide a clear overview of insurance policies and claims performance
 Identify high-risk customer segments
 Analyse how demographics and vehicle attributes influence claims
@@ -26,6 +27,7 @@ This combination enables a 360° view of policyholders, linking personal charact
 ⚙️ Data Preparation & Transformation
 
 Cleaned and structured raw data for analysis
+
 Created calculated fields such as:
 Age (from birthdate)
 Car Age (from car year)
@@ -67,6 +69,7 @@ Education & Marital Status (Matrix)
 → Identify high-risk customer profiles
 
 🔍 Key Insights
+
 Claim behaviour varies significantly across age groups and vehicle usage
 Commercial and commuting vehicles tend to show higher risk exposure
 Households with multiple young drivers have increased claim frequency
@@ -74,6 +77,7 @@ Certain car brands and older vehicles are associated with higher claim amounts
 Demographic factors such as income, education, and marital status influence risk patterns
 
 🛠️ Tools Used
+
 Power BI – Data modelling and dashboard creation
 DAX – Calculated measures and KPIs
 Data Cleaning & Transformation – Power BI / Power Query
@@ -81,7 +85,6 @@ Data Cleaning & Transformation – Power BI / Power Query
 💡 Business Impact
 
 This dashboard enables:
-
 Improved risk profiling and segmentation
 More informed pricing strategies
 Identification of high-risk customers
