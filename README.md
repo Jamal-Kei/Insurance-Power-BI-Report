@@ -89,3 +89,6 @@ Improved risk profiling and segmentation
 More informed pricing strategies
 Identification of high-risk customers
 Better decision-making through data visualisation
+
+<img width="1166" height="692" alt="image" src="https://github.com/user-attachments/assets/46309fcf-1039-4c94-91ad-a388178bf9d2" />
+
